@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(220, 220, 220);
+}
+
+#logo {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large
+        /* bolder feels like a curse */
+}
+
+.header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.section {
+    color: rgb(10, 10, 10);
+    font-family: 'Courier New', Courier, monospace
+}
+
+.exploiters {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(250, 0, 0);
+    font-size: large
+}
+
+.hyperkani {
+    color: rgb(0, 127, 0);
+    font-family: 'Ubuntu', sans-serif, system-ui
+}
+
+strong {
+    font-weight: bolder
+}
+
+a:hover {
+    color: rgb(250, 0, 0)
+}
+
+a:visited {
+    color: blue
+        /* purple visit was a crime. */
+}
