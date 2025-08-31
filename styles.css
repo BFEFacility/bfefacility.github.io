@@ -42,3 +42,8 @@ a:visited {
     color: blue
         /* purple visit was a crime. */
 }
+
+figcaption {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal
+}
